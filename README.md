@@ -6,4 +6,4 @@ There is a console and a Web project using [Fable]([fable-compiler/Fable: F# to 
 
 Preview:
 
-![game_preview](E:\GitRepo\Game_And_Graphics\GameOfLife\game_preview.gif)
+![game_preview](game_preview.gif)
